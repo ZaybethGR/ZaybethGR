@@ -1,7 +1,18 @@
-### Hi there 👋
+<h1>Hi, I'm Zaybeth! 
+  
+  Cybersecurity Professional</a>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+
+- <b>Python</b>
+ 
+
+<h2> 🤳 Connect with me:</h2>
+
 
 <!--
-**ZaybethGR/ZaybethGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
